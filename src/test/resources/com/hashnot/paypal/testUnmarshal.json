@@ -1,0 +1,23 @@
+[
+  {
+    "timestamp": "2016-01-01T00:00:00Z",
+    "timezone": "GMT",
+    "type": "Payment",
+    "payer": "payer@example.com",
+    "payerDisplayName": "Payer Payer",
+    "transactionID": "00000000000000000",
+    "status": "Completed",
+    "grossAmount": {
+      "currencyID": "USD",
+      "value": "2.00"
+    },
+    "feeAmount": {
+      "currencyID": "USD",
+      "value": "-1.00"
+    },
+    "netAmount": {
+      "currencyID": "USD",
+      "value": "1.00"
+    }
+  }
+]
