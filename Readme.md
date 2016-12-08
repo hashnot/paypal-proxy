@@ -8,4 +8,4 @@ Configuration
 
 Currently only a single account is supported, and it's configured using run arguments.
 
-See [Flags](blob/master/src/main/java/com/hashnot/paypal/Flags.java).
+See [Flags](src/main/java/com/hashnot/paypal/Flags.java).
