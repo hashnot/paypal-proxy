@@ -1,7 +1,7 @@
 PayPal Monitor
 =
 
-Monitor PayPal accounts (currently single account) for new transactions and sends each to another service
+Expose PayPal APIs with data converted to JSON and require no credentials (provided as program arguments)
 
 Configuration
 -
